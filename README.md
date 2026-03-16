@@ -1,7 +1,7 @@
 # Amazon Clone 🛒
 
-A simple **Amazon homepage clone** built using **HTML, CSS, and JavaScript**.
-This project replicates the basic layout and design of the Amazon website to practice front-end web development skills.
+A simple **Amazon homepage clone** created using **HTML and CSS**.
+This project recreates the layout and basic design of the Amazon website to practice front-end web development and page styling.
 
 ---
 
@@ -9,9 +9,9 @@ This project replicates the basic layout and design of the Amazon website to pra
 
 * Amazon-style **navigation bar**
 * **Product sections** similar to the Amazon homepage
-* **Responsive layout**
-* Basic **UI interactivity using JavaScript**
-* Clean and structured front-end design
+* Clean **UI layout**
+* Styled using **CSS for layout and design**
+* Beginner-friendly front-end project
 
 ---
 
@@ -19,18 +19,17 @@ This project replicates the basic layout and design of the Amazon website to pra
 
 * **HTML** – Structure of the webpage
 * **CSS** – Styling and layout design
-* **JavaScript** – Adding interactivity
 
 ---
 
 ## 🎯 Purpose of the Project
 
-This project was created to improve and practice:
+This project was built to practice:
 
-* Front-end development skills
-* Page layout and styling using CSS
-* DOM manipulation using JavaScript
-* Building real-world website UI clones
+* HTML page structure
+* CSS styling and layout
+* Creating real-world website UI clones
+* Improving front-end development skills
 
 ---
 
@@ -41,7 +40,6 @@ amazon-clone/
 │
 ├── index.html
 ├── style.css
-├── script.js
 └── README.md
 ```
 
@@ -49,15 +47,15 @@ amazon-clone/
 
 ## 🚀 How to Run the Project
 
-1. Download or clone this repository
+1. Download or clone the repository
 2. Open the project folder
-3. Double-click **index.html** or open it in any web browser
+3. Open **index.html** in any web browser
 
 ---
 
 ## 📷 Screenshot
 
-(Add a screenshot of your project here)
+(Add a screenshot of the project here)
 
 ---
 
@@ -65,4 +63,3 @@ amazon-clone/
 
 **Mahak Soni**
 BCA Student | Aspiring Web Developer
-
